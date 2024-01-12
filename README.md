@@ -12,5 +12,6 @@
 <li>Price app - managing prices and discounts</li>
 <li>Telebot app - settings for messages sent by telegrambot</li>
 <h2>Demo</h2>
+![](https://github.com/GeorgiyBereza/django_website/blob/main/websitedemo.gif)
 <h2>Structure</h2>
 
