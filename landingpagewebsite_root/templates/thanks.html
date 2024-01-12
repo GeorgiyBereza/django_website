@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block thanks %}
+
+  	<section>
+		{% if name %}
+  		<div class="container">
+  			<CENTER style = 'margin-top: 35%; margin-bottom: 35%;'><h1>{{ name }}, Thank you for your order!</h1></CENTER>
+  		</div>
+		{% else %}
+		<div class="container">
+  			<CENTER style = 'margin-top: 35%; margin-bottom: 35%;'><h1>{Thank you!</h1></CENTER>
+  		</div>
+		{% endif %}
+  	</section>
+
+{% endblock %}
