@@ -1,5 +1,6 @@
 <h1>Website Shop App (Django/Python/Telegram bot/HTML/CSS)</h1>
 
+
 <h2>Features:</h2>
 <li>Header+Footer (with logo, company name, contact phone and links to telegram and wattsapp)</li>
 <li>Carousel-slider (you can add new slides, edit pictures and castomize titles and text from admin panel)</li>
@@ -11,7 +12,15 @@
 <li>CRM app - working with orders: change status, add comments, edit data, etc </li>
 <li>Price app - managing prices and discounts</li>
 <li>Telebot app - settings for messages sent by telegrambot</li>
-<h2>Demo</h2>
+<h2>Website demo</h2>
+
 ![](https://github.com/GeorgiyBereza/django_website/blob/main/websitedemo.gif)
+
 <h2>Structure</h2>
 
+<img src="https://github.com/GeorgiyBereza/django_website/blob/main/project_architecture.jpg">
+
+<h3>Admin panel demo</h3>
+<img src="https://github.com/GeorgiyBereza/django_website/blob/main/admin_panel.jpg">
+<h3>Example of message from telegrambot</h3>
+<img src="https://github.com/GeorgiyBereza/django_website/blob/main/telegrambot_message.jpg">
